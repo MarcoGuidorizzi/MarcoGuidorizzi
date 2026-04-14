@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/marco-guidorizzi-314282219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:guidorizzi68@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#c6a1b3afa2a9b4afbcbcaff0fe86a1aba7afaae8a5a9ab">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MarcoGuidorizzi" target="_blank">
@@ -95,8 +95,8 @@ Essa bagagem me dá uma visão completa do ciclo de desenvolvimento — do hardw
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcoGuidorizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoGuidorizzi&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcoGuidorizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcoGuidorizzi&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </p>
 
 ---
@@ -116,5 +116,4 @@ Essa bagagem me dá uma visão completa do ciclo de desenvolvimento — do hardw
 
 <p align="center">
   <em>💬 Aberto a conversas sobre oportunidades, colaborações ou troca de conhecimento!</em><br/>
-  <a href="mailto:guidorizzi68@gmail.com">guidorizzi68@gmail.com</a>
-</p>
+  <a href="/cdn-cgi/l/email-p
