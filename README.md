@@ -95,13 +95,11 @@ Essa bagagem me dá uma visão completa do ciclo de desenvolvimento — do hardw
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcoGuidorizzi&style=for-the-badge&color=0d1117&label=VISITAS+AO+PERFIL" />
+  <img src="https://streak-stats.demolab.com?user=MarcoGuidorizzi&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MarcoGuidorizzi?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios_Públicos-ver_todos-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MarcoGuidorizzi&style=for-the-badge&color=0d1117&label=VISITAS+AO+PERFIL" />
 </p>
 
 ---
