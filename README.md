@@ -95,8 +95,13 @@ Essa bagagem me dá uma visão completa do ciclo de desenvolvimento — do hardw
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcoGuidorizzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcoGuidorizzi&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=MarcoGuidorizzi&style=for-the-badge&color=0d1117&label=VISITAS+AO+PERFIL" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarcoGuidorizzi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios_Públicos-ver_todos-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
 </p>
 
 ---
