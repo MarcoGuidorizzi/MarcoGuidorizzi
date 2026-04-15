@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Marco Guidorizzi 👋</h1>
+<h1 align="center">Prazer, Marco Guidorizzi!</h1>
 
 <p align="center">
   <em>Qualidade, clareza e solução — do código ao usuário.</em>
